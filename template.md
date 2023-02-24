@@ -5,7 +5,7 @@
 <!-- All of your education background -->
 ## Education
 
-- Bachelor: (STUDENT/DEGREE) at/from [Universidad de los Andes](https://uniandes.edu.co/)
+- Bachelor: Biomedical Engineering at/from [Universidad de los Andes](https://uniandes.edu.co/)
 <!--- Master: (STUDENT/DEGREE) at/from [UNIVERSITY](LINK UNIVERSITY) -->
 <!---  Doctorate: (STUDENT/DEGREE) at/from [UNIVERSITY](LINK UNIVERSITY) -->
 <!--- Post Doctorate: (STUDENT/DEGREE) at/from [UNIVERSITY](LINK UNIVERSITY) -->
